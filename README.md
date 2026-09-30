@@ -28,5 +28,9 @@ Open `blinkit.pbix` using Microsoft Power BI Desktop to explore the report.
 2. Open it in Power BI Desktop.
 3. Interact with the report filters and visuals.
 
+## Dashboard Preview
+
+![Blinkit Power BI Dashboard](D:\Project\BlinkIT Project)
+
 ## Author
 Aditya Kurlekar
