@@ -30,7 +30,7 @@ Open `blinkit.pbix` using Microsoft Power BI Desktop to explore the report.
 
 ## Dashboard Preview
 
-![Blinkit Power BI Dashboard](D:\Project\BlinkIT Project)
+![Blinkit Power BI Dashboard](images/dashboard.png)
 
 ## Author
 Aditya Kurlekar
